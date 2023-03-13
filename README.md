@@ -10,7 +10,7 @@ I'm Rahad Chowdhury a Full Stack penetration Tester and Bug Hunter on [Youtube](
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I'm currently working at MalwareCare
+- 🔭 I'm currently working at BugsBD Limited
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I'm looking for help with Outstanding Video ideas.
 - 📫 How to reach me: info@rahadchowdhury.info.
@@ -53,7 +53,7 @@ I'm Rahad Chowdhury a Full Stack penetration Tester and Bug Hunter on [Youtube](
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](#)
+- :paperclip: [My Resume/CV](https://www.linkedin.com/in/rahadchowdhury/)
 - :email: info@rahadchowdhury.info
 
 
