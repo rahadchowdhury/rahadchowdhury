@@ -70,9 +70,6 @@ I'm Rahad Chowdhury a Full Stack penetration Tester and Bug Hunter on [Youtube](
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and hunting why Rahad Chowdhury Youtube Channel exists!
 
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
 #### Coding Stats
 
