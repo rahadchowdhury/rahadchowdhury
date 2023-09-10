@@ -54,7 +54,7 @@ I'm Rahad Chowdhury. A Cyber Security Specialist, Penetration Tester, Bug Hunter
 #### Bizness
 - :paperclip: [My Resume/CV](https://www.linkedin.com/in/rahadchowdhury/)
 - :email: info@rahadchowdhury.info
-- :email: [Gmail](rahad2546@gmail.com)
+- :email: rahad.bugsbd@gmail.com
 
 
 #### Profile Visits 
